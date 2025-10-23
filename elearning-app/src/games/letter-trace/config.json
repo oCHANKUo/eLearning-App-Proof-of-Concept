@@ -1,0 +1,11 @@
+{
+  "id": "letter-trace",
+  "name": "Letter Tracing",
+  "description": "Trace letters from A to Z",
+  "category": "writing",
+  "difficulty": "easy",
+  "items": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
+  "color": "bg-blue-500",
+  "icon": "✏️",
+  "modelPath": null
+}
